@@ -3,6 +3,7 @@
     <div>
       <router-view></router-view>
     </div>
+    <h1></h1>
   </el-config-provider>
 </template>
 
