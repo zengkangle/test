@@ -3,7 +3,6 @@
     <div>
       <router-view></router-view>
     </div>
-    <div></div>
   </el-config-provider>
 </template>
 
